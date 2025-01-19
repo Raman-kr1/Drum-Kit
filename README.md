@@ -28,11 +28,6 @@ This is an interactive **Drum Kit** web application that lets users play drum so
 - **styles.css**: Styling for the Drum Kit interface.
 - **index.js**: JavaScript logic for sound and animations.
 
-## Preview
-![Drum Kit Preview](images/drum-kit-preview.png)
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 Feel free to reach out for any questions or suggestions:
