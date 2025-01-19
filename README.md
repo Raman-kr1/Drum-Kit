@@ -36,5 +36,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 Feel free to reach out for any questions or suggestions:
-📧 Email: [Raman](mailto:ramannishad@myyahoo.com)
-
