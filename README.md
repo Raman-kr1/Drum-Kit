@@ -15,7 +15,7 @@ This is an interactive **Drum Kit** web application that lets users play drum so
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drum-kit.git
+   git clone https://github.com/Raman-kr1/drum-kit.git
    ```
 2. Navigate to the project folder:
    ```bash
